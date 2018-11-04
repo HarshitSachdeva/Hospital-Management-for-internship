@@ -1,0 +1,152 @@
+body{
+    width: 100%;
+    height:100%;
+}
+.con {
+    margin-top:100px;
+}
+
+#content{
+    min-height: 600px;
+}
+.navbar-brand{
+    font-size:20px;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+
+
+#banner_image {
+    padding-bottom:110px;
+    margin-bottom: 0px;  
+    color: #f8f8f8;      
+    height:670px;
+    background: url("images/health5.png") no-repeat center;
+    background-size:cover;  
+}
+
+#banner_content {
+    /*position:relative;*/
+    padding-top: 6%; 
+    padding-bottom: 6%;
+    margin: auto;
+    margin-top:16%;
+    background-color: rgba(0, 0, 0, 0.7); 
+    max-width:660px; 
+    text-align: center;
+}
+#banner_content h1 {
+    font-weight: bold;
+}
+
+
+
+
+
+ .details h3,p{
+    font-weight: bold;
+    font-family: arial;
+    padding:5px;
+    text-align: center;
+ 
+}
+footer{
+    padding: 10px 0; 
+    background-color: #101010; 
+    color:#9d9d9d;  
+    bottom:0;
+    width: 100%; 
+
+
+}
+    
+
+footer center {
+    color:red;
+    font-weight: bold;
+}
+
+.signupform {
+     margin-top:60px;
+    margin-bottom: 60px;
+    border:1px solid black;
+    padding:20px;
+    text-align:center;
+   
+   
+}
+.login{
+    text-align:center;
+    margin: auto;
+}
+.row_style{
+    margin-top: 70px;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-top: 1px solid grey;
+  align:left;
+}
+.settings{
+    text-align:left;
+    margin: auto;
+    margin-top:110px;
+    //border:1px solid black;
+    padding-bottom: 20px;
+    /*width: 220px;*/
+    /*margin-bottom: 60px;*/
+}
+
+td, th {
+  margin: 0;
+  border: 1px solid grey;
+  white-space: nowrap;
+  border-top-width: 0px;
+}
+#page {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-collapse: collapse;
+    border:5px solid;
+    background-color:#ececec;
+    padding: 20px;
+
+}
+#page tr,th {
+    padding: 15px ;
+    height:50px;
+
+}
+#page th{
+    text-align:left;
+    background-color:#ececec;
+}
+#pages {
+    margin-top: 100px;
+    align:center;
+    text-align: center;
+}
+#viewpageno {
+    margin-top: 40px;
+    margin-left: 650px;
+    margin-bottom: 35px;
+    //size: 1110px;
+}
+#length {
+    //background-color: green;
+    height: 80%;
+}
+
+
+
+
